@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\Battery_XT60_Adapter\AD20\Library\VT.SchLib
+DocumentPath=..\..\LIB\VT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IHTRFVOY
 
 [Document2]
-DocumentPath=..\Battery_XT60_Adapter\AD20\Library\VT.PcbLib
+DocumentPath=..\..\LIB\VT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GUKJMROX
 
 [Document3]
-DocumentPath=..\Battery_XT60_Adapter\AD20\Library\VD.SchLib
+DocumentPath=..\..\LIB\VD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IIIODZSL
 
 [Document4]
-DocumentPath=..\Battery_XT60_Adapter\AD20\Library\VD.PcbLib
+DocumentPath=..\..\LIB\VD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LMDQIGHU
 
 [Document5]
-DocumentPath=..\Battery_XT60_Adapter\AD20\Library\Resistors.SchLib
+DocumentPath=..\..\LIB\Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HRYROKCQ
 
 [Document6]
-DocumentPath=..\Battery_XT60_Adapter\AD20\Library\Resistors.PcbLib
+DocumentPath=..\..\LIB\Resistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MLBWOBXU
 
 [Document7]
-DocumentPath=..\Battery_XT60_Adapter\AD20\Library\Modules.SchLib
+DocumentPath=..\..\LIB\Modules.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PDAALNSU
 
 [Document8]
-DocumentPath=..\Battery_XT60_Adapter\AD20\Library\Modules.PcbLib
+DocumentPath=..\..\LIB\Modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -183,10 +183,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GXJKZOCH
+DocumentUniqueId=WPUODKKF
 
 [Document9]
-DocumentPath=..\Battery_XT60_Adapter\AD20\Library\Inductors.SchLib
+DocumentPath=..\..\LIB\Inductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -203,7 +203,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EYWCXNFG
 
 [Document10]
-DocumentPath=..\Battery_XT60_Adapter\AD20\Library\Inductors.PcbLib
+DocumentPath=..\..\LIB\Inductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -220,7 +220,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GSWUAVHB
 
 [Document11]
-DocumentPath=..\Battery_XT60_Adapter\AD20\Library\IC.SchLib
+DocumentPath=..\..\LIB\IC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -237,7 +237,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QLLSUONO
 
 [Document12]
-DocumentPath=..\Battery_XT60_Adapter\AD20\Library\IC.PcbLib
+DocumentPath=..\..\LIB\IC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -254,7 +254,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IJNIORVR
 
 [Document13]
-DocumentPath=..\Battery_XT60_Adapter\AD20\Library\Conectors.SchLib
+DocumentPath=..\..\LIB\Conectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -271,7 +271,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VDHUBURD
 
 [Document14]
-DocumentPath=..\Battery_XT60_Adapter\AD20\Library\Conectors.PcbLib
+DocumentPath=..\..\LIB\Conectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -288,7 +288,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CJQDXSSV
 
 [Document15]
-DocumentPath=..\Battery_XT60_Adapter\AD20\Library\Capacitors.SchLib
+DocumentPath=..\..\LIB\Capacitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -305,7 +305,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TFHZPAAR
 
 [Document16]
-DocumentPath=..\Battery_XT60_Adapter\AD20\Library\Capacitors.PcbLib
+DocumentPath=..\..\LIB\Capacitors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -417,11 +417,11 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=STNHXARX
+DocumentUniqueId=XHGHQWXY
 
 [Document23]
 DocumentPath=CAMtastic1.Cam
