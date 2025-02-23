@@ -106,6 +106,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
+DocumentPath=..\Library\SIP8.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CVWTIYFE
+
+[Document5]
 DocumentPath=..\Library\SKA20B05.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPLIGANZ
 
-[Document5]
+[Document6]
 DocumentPath=..\Library\VT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,9 +154,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GUKJMROX
 
-[Document6]
+[Document7]
 DocumentPath=..\Library\VD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document8]
 DocumentPath=..\Library\VD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=..\Library\Resistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=..\Library\Resistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document11]
 DocumentPath=..\Library\Modules.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PDAALNSU
 
-[Document11]
+[Document12]
 DocumentPath=..\Library\Modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document13]
 DocumentPath=..\Library\Inductors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document13]
+[Document14]
 DocumentPath=..\Library\Inductors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GSWUAVHB
 
-[Document14]
+[Document15]
 DocumentPath=..\Library\IC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLLSUONO
 
-[Document15]
+[Document16]
 DocumentPath=..\Library\IC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IJNIORVR
 
-[Document16]
+[Document17]
 DocumentPath=..\Library\Conectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document18]
 DocumentPath=..\Library\Conectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CJQDXSSV
 
-[Document18]
+[Document19]
 DocumentPath=..\Library\Capacitors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document20]
 DocumentPath=..\Library\Capacitors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document21]
 DocumentPath=Main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XWRWENAN
 
-[Document21]
+[Document22]
 DocumentPath=Power Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFNKRJDS
 
-[Document22]
+[Document23]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document24]
 DocumentPath=MainBoard_V1_2.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document25]
 DocumentPath=MainBoard_V1_2.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document26]
 DocumentPath=MainBoard_V1_2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,8 +496,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XHGHQWXY
 
-[Document26]
-DocumentPath=..\Library\SKA20B-05_2.SchLib
+[Document27]
+DocumentPath=..\Library\SPBW03F-12.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -494,7 +511,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CFYIICJS
+DocumentUniqueId=NTPWWSAI
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for MainBoard_V1_2\MainBoard_V1_2.DRR
@@ -513,58 +530,34 @@ DocumentPath=Project Outputs for MainBoard_V1_2\MainBoard_V1_2.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for MainBoard_V1_2\MainBoard_V1_2.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
 DocumentPath=Project Outputs for MainBoard_V1_2\MainBoard_V1_2.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument7]
-DocumentPath=Project Outputs for MainBoard_V1_2\MainBoard_V1_2.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for MainBoard_V1_2\MainBoard_V1_2.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for MainBoard_V1_2\MainBoard_V1_2.GM
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for MainBoard_V1_2\MainBoard_V1_2.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for MainBoard_V1_2\MainBoard_V1_2.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for MainBoard_V1_2\MainBoard_V1_2.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
-DocumentPath=Project Outputs for MainBoard_V1_2\MainBoard_V1_2.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for MainBoard_V1_2\MainBoard_V1_2.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for MainBoard_V1_2\MainBoard_V1_2.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for MainBoard_V1_2\MainBoard_V1_2.REP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for MainBoard_V1_2\MainBoard_V1_2.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for MainBoard_V1_2\MainBoard_V1_2.TXT
 DItemRevisionGUID=
 
@@ -2150,190 +2143,208 @@ ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=Hydrolib.DbLib/Capacitors_ceramic$
-ComponentDesignItemID12=Capacitor_10n_10_50V_X7R_0603C
+ComponentDesignItemID12=Capacitor_0,1u_10_50V_X7R_0603C
 ComponentSymbolReference12=Capacitor
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=Hydrolib.DbLib/Capacitors_ceramic$
-ComponentDesignItemID13=Capacitor_22u_10_25V_X7R_1210C
+ComponentDesignItemID13=Capacitor_10n_10_50V_X7R_0603C
 ComponentSymbolReference13=Capacitor
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=Hydrolib.DbLib/Capacitors_ceramic$
-ComponentDesignItemID14=Capacitor_4,7u_10_50V_X7R_1206C
+ComponentDesignItemID14=Capacitor_10u_10_35V_X7R_1210C
 ComponentSymbolReference14=Capacitor
 ComponentUpdate14=1
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=Hydrolib.DbLib/Chips$
-ComponentDesignItemID15=RT8279GSP
-ComponentSymbolReference15=RT8279GSP
+ComponentLibraryIdentifier15=Hydrolib.DbLib/Capacitors_ceramic$
+ComponentDesignItemID15=Capacitor_22u_10_25V_X7R_1210C
+ComponentSymbolReference15=Capacitor
 ComponentUpdate15=1
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=Hydrolib.DbLib/Chips$
-ComponentDesignItemID16=USBLC6-4
-ComponentSymbolReference16=USBLC6-4
+ComponentLibraryIdentifier16=Hydrolib.DbLib/Capacitors_ceramic$
+ComponentDesignItemID16=Capacitor_4,7u_10_50V_X7R_1206C
+ComponentSymbolReference16=Capacitor
 ComponentUpdate16=1
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=Hydrolib.DbLib/Connectors$
-ComponentDesignItemID17=XT30UPB-F
-ComponentSymbolReference17=Polar_Conn
+ComponentLibraryIdentifier17=Hydrolib.DbLib/Chips$
+ComponentDesignItemID17=LD1117S33CTR
+ComponentSymbolReference17=LD1117S33CTR
 ComponentUpdate17=1
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=Hydrolib.DbLib/Inductance$
-ComponentDesignItemID18=B82477R4683M100
-ComponentSymbolReference18=Inductance
+ComponentLibraryIdentifier18=Hydrolib.DbLib/Chips$
+ComponentDesignItemID18=RT8279GSP
+ComponentSymbolReference18=RT8279GSP
 ComponentUpdate18=1
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=Hydrolib.DbLib/Inductance$
-ComponentDesignItemID19=SDR0403-120ML
-ComponentSymbolReference19=Inductance
+ComponentLibraryIdentifier19=Hydrolib.DbLib/Chips$
+ComponentDesignItemID19=USBLC6-4
+ComponentSymbolReference19=USBLC6-4
 ComponentUpdate19=1
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
-ComponentLibraryIdentifier20=Hydrolib.DbLib/Other$
-ComponentDesignItemID20=SB
-ComponentSymbolReference20=SB
+ComponentLibraryIdentifier20=Hydrolib.DbLib/Connectors$
+ComponentDesignItemID20=XT30UPB-F
+ComponentSymbolReference20=Polar_Conn
 ComponentUpdate20=1
 ComponentIsDeviceSheet20=0
 ComponentLibIdentifierKind21=Library Name And Type
-ComponentLibraryIdentifier21=Hydrolib.DbLib/Resistors$
-ComponentDesignItemID21=Resistor_100k_1_0603
-ComponentSymbolReference21=Resistor
+ComponentLibraryIdentifier21=Hydrolib.DbLib/Inductance$
+ComponentDesignItemID21=B82477R4683M100
+ComponentSymbolReference21=Inductance
 ComponentUpdate21=1
 ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
-ComponentLibraryIdentifier22=Hydrolib.DbLib/Resistors$
-ComponentDesignItemID22=Resistor_10k_1_0603
-ComponentSymbolReference22=Resistor
+ComponentLibraryIdentifier22=Hydrolib.DbLib/Inductance$
+ComponentDesignItemID22=SDR0403-120ML
+ComponentSymbolReference22=Inductance
 ComponentUpdate22=1
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
-ComponentLibraryIdentifier23=Hydrolib.DbLib/Resistors$
-ComponentDesignItemID23=Resistor_11k_1_0603
-ComponentSymbolReference23=Resistor
+ComponentLibraryIdentifier23=Hydrolib.DbLib/Other$
+ComponentDesignItemID23=SB
+ComponentSymbolReference23=SB
 ComponentUpdate23=1
 ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
-ComponentLibraryIdentifier24=Hydrolib.DbLib/Schottky$
-ComponentDesignItemID24=SK56
-ComponentSymbolReference24=Schottky_diode
+ComponentLibraryIdentifier24=Hydrolib.DbLib/Resistors$
+ComponentDesignItemID24=Resistor_100k_1_0603
+ComponentSymbolReference24=Resistor
 ComponentUpdate24=1
 ComponentIsDeviceSheet24=0
 ComponentLibIdentifierKind25=Library Name And Type
-ComponentLibraryIdentifier25=Hydrolib.DbLib
-ComponentDesignItemID25=AO3401A
-ComponentSymbolReference25=MOSFET P-channel 2
+ComponentLibraryIdentifier25=Hydrolib.DbLib/Resistors$
+ComponentDesignItemID25=Resistor_10k_1_0603
+ComponentSymbolReference25=Resistor
 ComponentUpdate25=1
 ComponentIsDeviceSheet25=0
 ComponentLibIdentifierKind26=Library Name And Type
-ComponentLibraryIdentifier26=IC.SchLib
-ComponentDesignItemID26=8.000MHzHC-49SM
-ComponentSymbolReference26=8.000MHzHC-49SM
+ComponentLibraryIdentifier26=Hydrolib.DbLib/Resistors$
+ComponentDesignItemID26=Resistor_11k_1_0603
+ComponentSymbolReference26=Resistor
 ComponentUpdate26=1
 ComponentIsDeviceSheet26=0
 ComponentLibIdentifierKind27=Library Name And Type
-ComponentLibraryIdentifier27=IC.SchLib
-ComponentDesignItemID27=ADUM1400ARWZ-RL
-ComponentSymbolReference27=ADUM1400ARWZ-RL
+ComponentLibraryIdentifier27=Hydrolib.DbLib/Schottky$
+ComponentDesignItemID27=SK56
+ComponentSymbolReference27=Schottky_diode
 ComponentUpdate27=1
 ComponentIsDeviceSheet27=0
 ComponentLibIdentifierKind28=Library Name And Type
-ComponentLibraryIdentifier28=IC.SchLib
-ComponentDesignItemID28=R-78E3.3-1.0
-ComponentSymbolReference28=R-78E3.3-1.0
+ComponentLibraryIdentifier28=Hydrolib.DbLib
+ComponentDesignItemID28=AO3401A
+ComponentSymbolReference28=MOSFET P-channel 2
 ComponentUpdate28=1
 ComponentIsDeviceSheet28=0
 ComponentLibIdentifierKind29=Library Name And Type
 ComponentLibraryIdentifier29=IC.SchLib
-ComponentDesignItemID29=STM32F030K6T6
-ComponentSymbolReference29=STM32F030K6T6
+ComponentDesignItemID29=8.000MHzHC-49SM
+ComponentSymbolReference29=8.000MHzHC-49SM
 ComponentUpdate29=1
 ComponentIsDeviceSheet29=0
 ComponentLibIdentifierKind30=Library Name And Type
 ComponentLibraryIdentifier30=IC.SchLib
-ComponentDesignItemID30=VN5016AJTR-E
-ComponentSymbolReference30=VN5016AJTR-E
+ComponentDesignItemID30=ADUM1400ARWZ-RL
+ComponentSymbolReference30=ADUM1400ARWZ-RL
 ComponentUpdate30=1
 ComponentIsDeviceSheet30=0
 ComponentLibIdentifierKind31=Library Name And Type
 ComponentLibraryIdentifier31=IC.SchLib
-ComponentDesignItemID31=МПВ15В
-ComponentSymbolReference31=МПВ15В
+ComponentDesignItemID31=R-78E3.3-1.0
+ComponentSymbolReference31=R-78E3.3-1.0
 ComponentUpdate31=1
 ComponentIsDeviceSheet31=0
 ComponentLibIdentifierKind32=Library Name And Type
 ComponentLibraryIdentifier32=IC.SchLib
-ComponentDesignItemID32=СМР10В
-ComponentSymbolReference32=СМР10В
+ComponentDesignItemID32=STM32F030K6T6
+ComponentSymbolReference32=STM32F030K6T6
 ComponentUpdate32=1
 ComponentIsDeviceSheet32=0
 ComponentLibIdentifierKind33=Library Name And Type
-ComponentLibraryIdentifier33=Modules.SchLib
-ComponentDesignItemID33=MCU_BMA_V1_0
-ComponentSymbolReference33=MCU_BMA_V1_0
+ComponentLibraryIdentifier33=IC.SchLib
+ComponentDesignItemID33=VN5016AJTR-E
+ComponentSymbolReference33=VN5016AJTR-E
 ComponentUpdate33=1
 ComponentIsDeviceSheet33=0
 ComponentLibIdentifierKind34=Library Name And Type
-ComponentLibraryIdentifier34=Modules.SchLib
-ComponentDesignItemID34=Raspberry+PI4MB_HAT_V2
-ComponentSymbolReference34=Raspberry+PI4MB_HAT_V2
+ComponentLibraryIdentifier34=IC.SchLib
+ComponentDesignItemID34=МПВ15В
+ComponentSymbolReference34=МПВ15В
 ComponentUpdate34=1
 ComponentIsDeviceSheet34=0
 ComponentLibIdentifierKind35=Library Name And Type
-ComponentLibraryIdentifier35=Resistors.SchLib
-ComponentDesignItemID35=RC0603FR-0710KL
-ComponentSymbolReference35=RC0603FR-0710KL
+ComponentLibraryIdentifier35=Modules.SchLib
+ComponentDesignItemID35=MCU_BMA_V1_0
+ComponentSymbolReference35=MCU_BMA_V1_0
 ComponentUpdate35=1
 ComponentIsDeviceSheet35=0
 ComponentLibIdentifierKind36=Library Name And Type
-ComponentLibraryIdentifier36=Resistors.SchLib
-ComponentDesignItemID36=RC0603FR-071KL
-ComponentSymbolReference36=RC0603FR-071KL
+ComponentLibraryIdentifier36=Modules.SchLib
+ComponentDesignItemID36=Raspberry+PI4MB_HAT_V2
+ComponentSymbolReference36=Raspberry+PI4MB_HAT_V2
 ComponentUpdate36=1
 ComponentIsDeviceSheet36=0
 ComponentLibIdentifierKind37=Library Name And Type
 ComponentLibraryIdentifier37=Resistors.SchLib
-ComponentDesignItemID37=RC0603FR-072KL
-ComponentSymbolReference37=RC0603FR-072KL
+ComponentDesignItemID37=RC0603FR-0710KL
+ComponentSymbolReference37=RC0603FR-0710KL
 ComponentUpdate37=1
 ComponentIsDeviceSheet37=0
 ComponentLibIdentifierKind38=Library Name And Type
-ComponentLibraryIdentifier38=SKA20B-05.SchLib
-ComponentDesignItemID38=Component_1
-ComponentSymbolReference38=Component_1
+ComponentLibraryIdentifier38=Resistors.SchLib
+ComponentDesignItemID38=RC0603FR-071KL
+ComponentSymbolReference38=RC0603FR-071KL
 ComponentUpdate38=1
 ComponentIsDeviceSheet38=0
 ComponentLibIdentifierKind39=Library Name And Type
-ComponentLibraryIdentifier39=VD.SchLib
-ComponentDesignItemID39=BZV55-C3V3,115
-ComponentSymbolReference39=BZV55-C3V3,115
+ComponentLibraryIdentifier39=Resistors.SchLib
+ComponentDesignItemID39=RC0603FR-072KL
+ComponentSymbolReference39=RC0603FR-072KL
 ComponentUpdate39=1
 ComponentIsDeviceSheet39=0
 ComponentLibIdentifierKind40=Library Name And Type
-ComponentLibraryIdentifier40=VD.SchLib
-ComponentDesignItemID40=BZX384-C15,115
-ComponentSymbolReference40=BZX384-C15,115
+ComponentLibraryIdentifier40=SKA20B-05.SchLib
+ComponentDesignItemID40=Component_1
+ComponentSymbolReference40=Component_1
 ComponentUpdate40=1
 ComponentIsDeviceSheet40=0
 ComponentLibIdentifierKind41=Library Name And Type
-ComponentLibraryIdentifier41=VD.SchLib
-ComponentDesignItemID41=SMAJ26CA
-ComponentSymbolReference41=SMAJ26CA
+ComponentLibraryIdentifier41=SPBW03F-12.SchLib
+ComponentDesignItemID41=SPBW03F-12
+ComponentSymbolReference41=SPBW03F-12
 ComponentUpdate41=1
 ComponentIsDeviceSheet41=0
 ComponentLibIdentifierKind42=Library Name And Type
-ComponentLibraryIdentifier42=VT.SchLib
-ComponentDesignItemID42=IRFR5305TRPBF
-ComponentSymbolReference42=IRFR5305TRPBF
+ComponentLibraryIdentifier42=VD.SchLib
+ComponentDesignItemID42=BZV55-C3V3,115
+ComponentSymbolReference42=BZV55-C3V3,115
 ComponentUpdate42=1
 ComponentIsDeviceSheet42=0
+ComponentLibIdentifierKind43=Library Name And Type
+ComponentLibraryIdentifier43=VD.SchLib
+ComponentDesignItemID43=BZX384-C15,115
+ComponentSymbolReference43=BZX384-C15,115
+ComponentUpdate43=1
+ComponentIsDeviceSheet43=0
+ComponentLibIdentifierKind44=Library Name And Type
+ComponentLibraryIdentifier44=VD.SchLib
+ComponentDesignItemID44=SMAJ26CA
+ComponentSymbolReference44=SMAJ26CA
+ComponentUpdate44=1
+ComponentIsDeviceSheet44=0
+ComponentLibIdentifierKind45=Library Name And Type
+ComponentLibraryIdentifier45=VT.SchLib
+ComponentDesignItemID45=IRFR5305TRPBF
+ComponentSymbolReference45=IRFR5305TRPBF
+ComponentUpdate45=1
+ComponentIsDeviceSheet45=0
 FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -2496,38 +2507,41 @@ ModelType27=PCBLIB
 ModelName27=SIP3
 ModelUpdate27=1
 ModelType28=PCBLIB
-ModelName28=SKA20B05
+ModelName28=SIP8
 ModelUpdate28=1
 ModelType29=PCBLIB
-ModelName29=SMC
+ModelName29=SKA20B05
 ModelUpdate29=1
 ModelType30=PCBLIB
-ModelName30=SOD-123
+ModelName30=SMC
 ModelUpdate30=1
 ModelType31=PCBLIB
-ModelName31=SOD80C
+ModelName31=SOD-123
 ModelUpdate31=1
 ModelType32=PCBLIB
-ModelName32=SOIC-Wide-16
+ModelName32=SOD80C
 ModelUpdate32=1
 ModelType33=PCBLIB
-ModelName33=SOT23-3
+ModelName33=SOIC-Wide-16
 ModelUpdate33=1
 ModelType34=PCBLIB
-ModelName34=SOT23-6
+ModelName34=SOT223
 ModelUpdate34=1
 ModelType35=PCBLIB
-ModelName35=XT30UPB-F
+ModelName35=SOT23-3
 ModelUpdate35=1
 ModelType36=PCBLIB
-ModelName36=XT90H-M
+ModelName36=SOT23-6
 ModelUpdate36=1
 ModelType37=PCBLIB
-ModelName37=МП_15_
+ModelName37=XT30UPB-F
 ModelUpdate37=1
 ModelType38=PCBLIB
-ModelName38=СМ_10_
+ModelName38=XT90H-M
 ModelUpdate38=1
+ModelType39=PCBLIB
+ModelName39=МП_15_
+ModelUpdate39=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
